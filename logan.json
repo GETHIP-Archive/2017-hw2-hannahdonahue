@@ -1,10 +1,10 @@
 {
-    "firstName":"Logan",
-    "lastName":"Fitzgibbons",
-    "age":21,
-    "picture": "https://pbs.twimg.com/profile_images/425447212626083840/DqyqYfax.jpeg",
+    "firstName":"Hannah",
+    "lastName":"Donahue",
+    "age":17,
+    "picture": "https://q12.gallup.com/Content/images/Gallup_LinkedIn.png",
     "nickNames": [
-        {"nick": "Fitz"},
-        {"nick": "Big Money"}
+        {"nick": "Handawg"},
+        {"nick": "Donahue"}
     ]
 }
